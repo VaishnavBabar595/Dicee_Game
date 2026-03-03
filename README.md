@@ -2,11 +2,13 @@
 
 ### 🔗 Live Demo - https://vaishnavbabar595.github.io/Dicee_Game/
 
+
 ## 📖 Project Overview
 
 Dicee Game is a simple two-player browser-based dice simulation built using HTML, CSS, and JavaScript. The application generates random dice rolls on each page refresh and dynamically updates the UI to display the winner.
 
 This project demonstrates foundational frontend development concepts, including DOM manipulation, random number generation, and dynamic content updates using JavaScript.
+
 
 ## 🚀 Key Features
 
@@ -16,11 +18,13 @@ This project demonstrates foundational frontend development concepts, including 
 - 📱 Clean and responsive layout
 - 🧩 Beginner-friendly project structure
 
+
 ## 🛠 Tech Stack
 
 - HTML5 – Page structure
 - CSS3 – Styling and layout
 - JavaScript (ES6) – Game logic and DOM manipulation
+  
 
 ## 📂 Project Structure
 ```
